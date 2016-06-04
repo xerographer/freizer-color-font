@@ -6,11 +6,9 @@ color_svg_dir: color
 # Translate the B&W SVGs on import into glyphs.
 glyph_translate_x: 0
 glyph_translate_y: 0
-# The SVGs are scaled to 1000x1000 by the Gecko renderer, but need adjustment
-# to line up correctly. 8/10*2048 = 1638 = Default font ascent.
-color_transform: translate(0 -1638) scale(2.048)
-# Space width matching DejaVu Sans Mono.
-width_space: 2048
+#color_transform:
+# Space width matching DejaVu Sans.
+width_space: 561
 table_name:
   copyright: >
     Copyright 2016 Max Infeld and Brad Erickson CC-BY-4.0
@@ -25,7 +23,7 @@ table_name:
   manufacturer: xerographer.com
   designer: Max Infeld
   description: >
-    A SVGinOT color font. Copyright 2016 Max Infeld and Brad Erickson
+    A SVGinOT color font. Copyright 2016 Max Infeld and Brad Erickson CC-BY-4.0
     https://github.com/xerographer/freizer-font
   url_vendor: https://github.com/xerographer
   url_designer: https://xerographer.github.io/

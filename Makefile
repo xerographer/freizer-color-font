@@ -15,6 +15,7 @@ all: $(FONT)
 
 $(FONT): | build
 	$(SCFBUILD) -c scfbuild.yml --font-version="$(VERSION)"
+	webify-linux-x86_64 $(FONT)
 
 build:
 	mkdir build
