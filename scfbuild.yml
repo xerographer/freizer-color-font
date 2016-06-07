@@ -11,7 +11,7 @@ glyph_translate_y: 0
 width_space: 561
 table_name:
   copyright: >
-    Copyright 2016 Max Infeld and Brad Erickson CC-BY-4.0
+    Reinebow © Xerographer Fonts 2016 CC-BY-4.0
   family: Freizer
   # Subfamily is also called Style or Weight. Often set to: Regular
   subfamily: Regular
@@ -20,12 +20,13 @@ table_name:
   # No spaces in PostScript Names
   postscript_name: FreizerSVGinOT
   #trademark:
-  manufacturer: xerographer.com
+  manufacturer: Xerographer Fonts
   designer: Max Infeld
   description: >
-    A SVGinOT color font. Copyright 2016 Max Infeld and Brad Erickson CC-BY-4.0
-    https://github.com/xerographer/freizer-font
-  url_vendor: https://github.com/xerographer
-  url_designer: https://xerographer.github.io/
+    A SVGinOT color font made by Xerographer Fonts in San Francisco, California.
+    Copyright 2016 Max Infeld and Brad Erickson CC-BY-4.0.
+    https://github.com/xerographer/freizer-color-font
+  url_vendor: https://xerographer.github.io/
+  url_designer: https://about.me/maxinfeld
   license: Creative Commons Attribution 4.0 International
   url_license: http://creativecommons.org/licenses/by/4.0/
