@@ -3,7 +3,7 @@
 # Where to find scfbuild?
 SCFBUILD := SCFBuild/bin/scfbuild
 
-VERSION := 1.0
+VERSION := 1.1
 FONT := build/Freizer-SVGinOT.ttf
 
 SVG_BW := bw
